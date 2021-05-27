@@ -1,6 +1,6 @@
 # bootstrap-grid
 # Website [LINK](https://antoniobaciu.github.io/bootstrap-grid/)
-
+![](img/website-preview.png)
 
 ## The Mission
 - Recreate the layout below (use whatever text and images you want), just respect the layout
